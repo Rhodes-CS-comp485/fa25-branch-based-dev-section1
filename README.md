@@ -1,4 +1,4 @@
 # Branch-Based Development (In-Class Exercise)
 
 ## Group Names with Team Members
-cheeky-chicken: Jack Seigerman
+cheeky-chicken: Jack Seigerman, Max Gorman, Trevor Williams
