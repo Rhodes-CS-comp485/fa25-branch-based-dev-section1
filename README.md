@@ -1,4 +1,7 @@
 # Branch-Based Development (In-Class Exercise)
 
 ## Group Names with Team Members
-Giggly-goose: Aidan, Camren, Katie
+angry-apple: Enoch, Malik, Colin
+Dizzy Donkey: Jordan, Paul,Adaugo
+giggly-goose: Aidan, Camren, Katie
+pricky-pear: Prof. K
